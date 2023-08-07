@@ -1,16 +1,4 @@
-# favorcate
+## 花了十来天学习了flutter从入门到实战，给我的感觉是，要想做好跨端开发不仅还有许多flutter的东西需要学习，同时也需要学习IOS和Android原生开发的相关知识，这样在flutter调用原生操作和嵌入到已有的原生开发项目中才能更高效的开发。想真正跨端开发，还需要花费更多的时间学习。这次学习是浅学，入个门，真正了解了什么是大前端。
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
